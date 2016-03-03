@@ -10,14 +10,14 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            НУГ
+title:            'НУГ'
 tagline:          'Дифференциальные уравнения и численные методы'
 description:      'Сайт посвящен деятельности научно-учебной группы. Работа проведена в ходе исследования (16-05-0069)'
 url:              http://hsemmsg.github.io/
 baseurl:          http://hsemmsg.github.io/
 
 author:
-  name:           'Mark Otto'
+  name:           'НУГ Дифференциальные уравнения и численные методы'
   url:            http://hsemmsg.github.io
 
 paginate:         5
