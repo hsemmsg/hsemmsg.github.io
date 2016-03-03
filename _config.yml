@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      rouge
 
 gems: [jekyll-paginate]
@@ -10,15 +10,15 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+title:            НУГ
+tagline:          'Дифференциальные уравнения и численные методы'
+description:      'Сайт посвящен деятельности научно-учебной группы. Работа проведена в ходе исследования (16-05-0069)'
+url:              http://hsemmsg.github.io/
+baseurl:          http://hsemmsg.github.io/
 
 author:
   name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  url:            http://hsemmsg.github.io
 
 paginate:         5
 
@@ -26,4 +26,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/hsemmsg/hsemmsg.github.io
