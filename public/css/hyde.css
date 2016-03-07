@@ -132,16 +132,17 @@ a.sidebar-nav-item:focus {
  margin-right:auto;
  }
  .leftimage {
- width:30%;
+ width:40%;
  display: inline-block;
  float: left;
  }
  .righttext {
  height: auto;
- width: 70%;
+ width: 60%;
  display: inline;
- float: right;
+ align-content: right;
  font-weight: bold;
+ font-size: 20rem;
  }
 
 .content {
