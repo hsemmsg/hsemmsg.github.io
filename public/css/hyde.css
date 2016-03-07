@@ -141,6 +141,7 @@ a.sidebar-nav-item:focus {
  width: 90%;
  /*display: inline;*/
  float: right;
+ font-weight: bold;
  }
 
 .content {
