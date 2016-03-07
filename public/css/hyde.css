@@ -125,7 +125,7 @@ a.sidebar-nav-item:focus {
  #titletext {
  overflow:hidden;
  position:relative;
- width:90%;
+ width:100%;
  margin-bottom:0px;
  margin-top:0px;
  margin-left:auto;
@@ -142,7 +142,7 @@ a.sidebar-nav-item:focus {
  display: inline;
  text-align: right;
  font-weight: bold;
- font-size: 3.5rem;
+ font-size: 2.25rem;
  }
 
 .content {
