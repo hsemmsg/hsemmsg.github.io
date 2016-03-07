@@ -2,12 +2,13 @@
 layout: default
 title: Home
 ---
-<p>
-  <div align="right">
-  <img src="/images/1.gif" width="225px">
-    </div
-  <div align="left" font-family="Noto Serif" font-size="36px" margin-top="100%"><b>Новости</b></div>
-</p>
+<div id="titletext">
+
+<div class="leftimage"><img src="/images/1.gif"></div>
+<div class="righttext">Новости</div>
+
+</div>
+
 <hr>
 <div class="posts">
   {% for post in paginator.posts %}
