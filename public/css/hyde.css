@@ -177,7 +177,7 @@ a.sidebar-nav-item:focus {
   margin-top: 0;
   font-family: 'Noto Serif', serif;
   font-size: 2.25rem;
-
+  text-decoration: bold;
 }
 
 /* Sidebar nav */
@@ -190,11 +190,12 @@ a.sidebar-nav-item:focus {
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  text-decoration: underline;
-  color: #3cd5da;
+  text-decoration: bold;
+  color: #3db4b8;
 }
 .sidebar-nav-item.active {
   font-weight: bold;
+  color: #3db4b8;
 }
 
 /* Sticky sidebar
