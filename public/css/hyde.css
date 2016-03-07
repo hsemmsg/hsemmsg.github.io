@@ -126,8 +126,8 @@ a.sidebar-nav-item:focus {
  overflow:hidden;
  position:relative;
  width:90%;
- margin-bottom:20px;
- margin-top:20px;
+ margin-bottom:0px;
+ margin-top:0px;
  margin-left:auto;
  margin-right:auto;
  }
@@ -138,7 +138,7 @@ a.sidebar-nav-item:focus {
  }
  .righttext {
  height: auto;
- width: 70%;
+ width: 90%;
  /*display: inline;*/
  float: right;
  }
