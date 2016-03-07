@@ -1,5 +1,5 @@
 markdown: kramdown
-highlighter:  rouge
+highlighter: rouge
 
 gems: [jekyll-paginate]
 gems: [jekyll-gist]
@@ -9,14 +9,14 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            'НУГ'
-tagline:          'Дифференциальные уравнения и численные методы'
-description:      'НУГ "Дифференциальные уравнения и численные методы"'
+title:            "НУГ"
+tagline:          "Дифференциальные уравнения и численные методы"
+description:      "НУГ "Дифференциальные уравнения и численные методы""
 url:              http://hsemmsg.github.io/
 baseurl:          http://hsemmsg.github.io/
 
 author:
-  name:           'НУГ Дифференциальные уравнения и численные методы'
+  name:           "НУГ Дифференциальные уравнения и численные методы"
   url:            http://hsemmsg.github.io
 
 paginate:         5
