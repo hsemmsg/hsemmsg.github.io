@@ -139,7 +139,7 @@ a.sidebar-nav-item:focus {
  .righttext {
  height: auto;
  width: 70%;
- display: inline;
+ /*display: inline;*/
  float: right;
  }
 
