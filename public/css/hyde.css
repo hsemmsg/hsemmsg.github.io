@@ -138,8 +138,9 @@ a.sidebar-nav-item:focus {
  }
  .righttext {
  height: auto;
- width: 30%;
+ width: 70%;
  display: inline;
+ float: right;
  }
 
 .content {
