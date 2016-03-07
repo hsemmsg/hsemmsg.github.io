@@ -23,7 +23,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.11
+version:          2.1.12
 
 github:
   repo:           https://github.com/hsemmsg/hsemmsg.github.io
