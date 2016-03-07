@@ -140,6 +140,7 @@ a.sidebar-nav-item:focus {
  height: auto;
  width: 60%;
  display: inline;
+ margin-top: 5rem;
  text-align: right;
  font-weight: bold;
  font-size: 2.25rem;
