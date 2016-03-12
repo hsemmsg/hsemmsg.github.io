@@ -155,6 +155,8 @@ a.sidebar-nav-item:focus {
  text-align: right;
  font-weight: bold;
  text-decoration: underline;
+ text-decoration-style: double;
+ text-decoration-color: #3db4b8;
  font-size: 1.2rem;
  }
 
