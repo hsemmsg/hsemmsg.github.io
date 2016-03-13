@@ -160,6 +160,9 @@ a.sidebar-nav-item:focus {
  font-size: 1.2rem;
  }
 
+ hr.myhrline{
+      margin: 0px;
+}
 
 .content {
   padding-top:    2rem;
