@@ -131,4 +131,4 @@ SpringerLink: http://www.springerlink.com/openurl.asp?genre=article&id=doi:10.11
 100. V.A.Gordin, E.A.Tsymbalov. Compact Difference Schemes for Rod Lateral Vibrations Equation. Numerical Algebra with Applications - Proceedings of Fourth China-Russia Confrerence. Rostov-on-Don: Southern Federal University Publishing, 2015, pp.110 -113.
 
 101. V.A.Gordin. Differential and Finite-Difference Equations. What Are Phenomena That They Described And How They Should Be Solved, “Publisher House of Higher School of Economics”, Moscow, 2016, 530p.
-В.А.Гордин. Дифференциальные и разностные уравнения. Какие явления они описывают и как их решать, «Издательский дом ВШЭ», М., 2016, 530 стр.
+В.А.Гордин. Дифференциальные и разностные уравнения. Какие явления они описывают и как их решать, «Издательский дом ВШЭ», М., 2016, 530 стр.. https://youtu.be/ciWOWl-Cb3k
