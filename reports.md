@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Доклады на конференциях
+title: Конференции 2005 - 2013
 permalink: /reportsconf/
 ---
 

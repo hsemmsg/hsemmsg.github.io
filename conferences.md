@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Расписание конференций
+title: Конференции 2016 - 2017
 permalink: schedule/
 ---
 
