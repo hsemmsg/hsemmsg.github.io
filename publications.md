@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Публикации участников
-permalink: /publications/
+title: Работы участников
+permalink: /groupwork/
 ---
 
 **Работы участников по заявленной тематике**
