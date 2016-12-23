@@ -7,19 +7,20 @@ permalink: /trans_bounds/
 
 1. **Волновое уравнение - схема leap-frog**
 
-  ![](/images/Wave_leapfrog_anim_3_1_3_nu_0.8_t_0.35)
+	![](/images/Wave_leapfrog_anim_3_1_3_nu_0.8_t_0.35.gif)
+  
 2. **Уравнение диффурзии - явная схема**
 
-  ![](/images/diffus_ExEuler_anim_3_0_5_nu_0.48_t_0.16.gif)
+	![](/images/diffus_ExEuler_anim_3_0_5_nu_0.48_t_0.16.gif)
   
 3. **Уравненеи диффузии - компактная схема**
-	
+
 	![](/images/Diffusion_compact_anim_5_0_3_nu_0.4_t_0.5.gif)
 
-3. **Уравнение Шрёдингера - компактная схема**
+4. **Уравнение Шрёдингера - компактная схема**
 
-  ![](/images/Shrodinger_Compact_anim_5_10_nu_0+0.4i_t_10.gif)
+	![](/images/Shrodinger_Compact_anim_5_10_nu_0+0.4i_t_10.gif)
 
-4. **Уравнение Шрёдингера - схема Кранка-Николсон**
+5. **Уравнение Шрёдингера - схема Кранка-Николсон**
 
 	![](/images/Shrodinger_CN_anim_7_13_nu_0+0.4i_t_1.gif)
